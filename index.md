@@ -5,13 +5,13 @@ pagination:
   enabled: true
 ---
 
+## West Africa Network in Bioinformatics Meeeting 2025
 
 <br />
 <div style="display:flex"> 
 <img src="/assets/img/logo_wave2.jpeg" style="display: block; margin: 0 auto; width: 25%; ">
 <img src="/assets/img/logo_uboigny.jpeg" style="display: block; margin: 0 auto; width: 20%; ">
 <img src="/assets/img/logo_ujkz.jpeg" style="display: block; margin: 0 auto; width: 16%;">
-<img src="/assets/img/logo_ird.png" style="display: block; margin: 0 auto; width: 16%;">
 </div> 
 <br />
 
@@ -53,6 +53,19 @@ The <a href="https://wave-center.org/" target_blank>WAVE Regional Center of Exce
 bioinfo@wave-center.org
 </div>
 </div>
+
+<br />
+<br />
+<br />
+<div style="display:flex"> 
+<img src="/assets/img/logo_ird.png" style="display: block; margin: 0 auto; width: 16%;">
+<img src="/assets/img/logo_ifb.png" style="display: block; margin: 0 auto; width: 25%; ">
+<img src="/assets/img/logo_sfbi.png" style="display: block; margin: 0 auto; width: 16%;">
+<img src="/assets/img/logo_um.jpeg" style="display: block; margin: 0 auto; width: 20%; ">
+
+
+</div> 
+<br />
 
 
 <br/>
