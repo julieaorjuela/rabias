@@ -18,8 +18,8 @@ pagination:
 
 <div>
  <p align="justify">
-
 First interdisciplinary meeting of the bioinformatics and systems administration community in West Africa, with a view to creating a West African Bioinformatics Network. 
+<br/>
 
 <div style="display: flex; align-items: center;">
 <div style="margin-left: 15px; margin-right: 10px;">
@@ -50,7 +50,7 @@ The <a href="https://wave-center.org/" target_blank>WAVE Regional Center of Exce
 
 <br/>
 <div>
- bioinfo@wave-center.org
+bioinfo@wave-center.org
 </div>
 </div>
 
