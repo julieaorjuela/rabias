@@ -9,9 +9,9 @@ pagination:
 
 <br />
 <div style="display:flex"> 
-<img src="/assets/img/logo_wave2.jpeg" style="display: block; margin: 0 auto; width: 25%; ">
-<img src="/assets/img/logo_uboigny.jpeg" style="display: block; margin: 0 auto; width: 20%; ">
-<img src="/assets/img/logo_ujkz.jpeg" style="display: block; margin: 0 auto; width: 16%;">
+<img src="assets/img/logo_wave2.jpeg" style="display: block; margin: 0 auto; width: 25%; ">
+<img src="assets/img/logo_uboigny.jpeg" style="display: block; margin: 0 auto; width: 20%; ">
+<img src="assets/img/logo_ujkz.jpeg" style="display: block; margin: 0 auto; width: 16%;">
 </div> 
 <br />
 
@@ -23,7 +23,7 @@ First interdisciplinary meeting of the bioinformatics and systems administration
 
 <div style="display: flex; align-items: center;">
 <div style="margin-left: 15px; margin-right: 10px;">
-<img src="/assets/img/icon_calendar-5.png">
+<img src="assets/img/icon_calendar-5.png">
 </div>
 <div>
 15 - 17 December 2025
@@ -33,7 +33,7 @@ First interdisciplinary meeting of the bioinformatics and systems administration
 
 <div style="display: flex; align-items: center;">
 <div style="margin-left: 15px; margin-right: 10px;">
-<img src="/assets/img/icon_place-8.png">
+<img src="assets/img/icon_place-8.png">
 </div>
 <br/>
 
@@ -45,7 +45,7 @@ The <a href="https://wave-center.org/" target_blank>WAVE Regional Center of Exce
 
 <div style="display: flex; align-items: center;">
 <div style="margin-left: 15px; margin-right: 10px;">
-<img src="/assets/img/icon_email-5.png">
+<img src="assets/img/icon_email-5.png">
 </div>
 
 <br/>
@@ -58,10 +58,10 @@ bioinfo@wave-center.org
 <br />
 <br />
 <div style="display:flex"> 
-<img src="/assets/img/logo_ird.png" style="display: block; margin: 0 auto; width: 16%;">
-<img src="/assets/img/logo_ifb.png" style="display: block; margin: 0 auto; width: 25%; ">
-<img src="/assets/img/logo_sfbi.png" style="display: block; margin: 0 auto; width: 16%;">
-<img src="/assets/img/logo_um.jpeg" style="display: block; margin: 0 auto; width: 20%; ">
+<img src="assets/img/logo_ird.png" style="display: block; margin: 0 auto; width: 16%;">
+<img src="assets/img/logo_ifb.png" style="display: block; margin: 0 auto; width: 25%; ">
+<img src="assets/img/logo_sfbi.png" style="display: block; margin: 0 auto; width: 16%;">
+<img src="assets/img/logo_um.jpeg" style="display: block; margin: 0 auto; width: 20%; ">
 
 
 </div> 
