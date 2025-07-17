@@ -10,7 +10,7 @@ title: "RABIAS"
 email: julie.orjuela@ird.fr
 description: "West Africa Network in Bioinformatics" 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://julieaorjuela.github.io/rabias.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://julieaorjuela.github.io/rabias/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: julieorjuela
 github_username:  julieaorjuela
 
