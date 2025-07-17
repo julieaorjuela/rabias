@@ -29,5 +29,5 @@ pagination:
   per_page: 5
   permalink: '/page/:num/'
 
-relative_permalinks = false
+relative_permalinks : false
   
