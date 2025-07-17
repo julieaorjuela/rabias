@@ -28,4 +28,6 @@ pagination:
   collections: 'posts'
   per_page: 5
   permalink: '/page/:num/'
+
+relative_permalinks = false
   
